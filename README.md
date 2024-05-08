@@ -5,6 +5,7 @@
 
 <p align="center">
     Scientist. Pentester.
-
-  You can't outwork me.
+</p>
+<p align="center">
+  You can't compete with me.
 </p>
