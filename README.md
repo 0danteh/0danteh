@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-    Scientist. Pentester.
+    Scientist. Red Teamer.
 </p>
 <p align="center">
   You can't compete with me.
