@@ -10,4 +10,7 @@
   You can't compete with me.
 </p>
 
-Wondering about my specific skills? Click this repo and check the other file.
+<p align="center">
+  Still Wondering about my specific skills? Click this repo and check the other file.
+</p>
+
