@@ -6,3 +6,5 @@ Now, let's start:
 
 #### Science
 
+- Mathematics (mastered almost every mathematical fields, from calculus to multi-dimensional chaotic algebraical topologies)
+- Chemistry & Biochemistry (with specific attention to organic chemistry and neural biochemistry)
