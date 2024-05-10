@@ -10,4 +10,6 @@ Now, let's start:
 - Physics (mastered almost every physics-related fields as well, from basic classical mechanics to quantum physics and quantum chemistry)
 - Chemistry & Biochemistry (with specific attention to organic chemistry and neural biochemistry)
 
+### CS (dev)
+
 [**FILE WORK IN PROGRESS, NOT COMPLETE**]
