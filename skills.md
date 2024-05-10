@@ -22,11 +22,19 @@ Really interested huh xd, aight here's the breakdown (not following any order)
 - Quantum Computing
 - Operating Systems
 - Bioinformatics
-- Embedded Systems
 - Scientific Computing
 - Fullstack development
 - DevOps
 - Security Software development
 - Database Development
+
+### Cybersecurity
+
+- Pentesting
+- Blue Team (all the developing part)
+- Malware creation & analysis
+- Reverse Engineering
+- OSINT
+- 
 
 [**FILE WORK IN PROGRESS, NOT COMPLETE**]
