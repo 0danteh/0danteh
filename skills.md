@@ -1,5 +1,7 @@
+
+
 <p align="center">
-  <img src="https://github.com/dante-tech/dante-tech/assets/148709693/cc0ab690-dca8-4d38-ad2f-3bf9a4c5aecd" alt="animated" />
+  <img src="https://github.com/dante-tech/dante-tech/assets/148709693/681d73b9-5047-4e60-aa17-e10f03b949ae" alt="animated" />
 </p>
 
 Really interested huh xd, aight here's the breakdown (not following any order)
