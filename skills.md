@@ -19,5 +19,11 @@ Now, let's start:
 - Data Analysis
 - Robotics
 - Algorithms & Data Structure
+- Software Engineering
+- Cryptography
+- Cybersecurity
+- Cloud Computing
+- Quantum Computing
+- Operating Systems
 
 [**FILE WORK IN PROGRESS, NOT COMPLETE**]
