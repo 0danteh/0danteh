@@ -35,6 +35,9 @@ You will find the following categories: **Science**, **CS (dev)** and **Cybersec
 - Malware creation & analysis
 - Reverse Engineering
 - OSINT
-- 
+- Exploitation
+- Recon
+- Scripting
+- Forensics
 
-[**FILE WORK IN PROGRESS, NOT COMPLETE**]
+Languages? Any.
