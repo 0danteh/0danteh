@@ -27,8 +27,10 @@ Now, let's start:
 - Operating Systems
 - Bioinformatics
 - Embedded Systems
-- Computational Physics
+- Scientific Computing
 - Fullstack development
 - DevOps
+- Security Software development
+- Database Development
 
 [**FILE WORK IN PROGRESS, NOT COMPLETE**]
