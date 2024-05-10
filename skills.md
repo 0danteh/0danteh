@@ -1,5 +1,7 @@
 Really interested huh xd, aight here's the breakdown (not following any order)
 
+You will find the following categories: **Science**, **CS (dev)** and **Cybersecurity**
+
 ### Science
 
 - Mathematics (mastered almost every mathematical fields, from calculus to multi-dimensional chaotic algebraical topologies)
@@ -7,8 +9,6 @@ Really interested huh xd, aight here's the breakdown (not following any order)
 - Chemistry & Biochemistry (with specific attention to organic chemistry and neural biochemistry)
 
 ### CS (dev)
-
-#### Fields
 
 - Artificial Intelligence (development of algorithms and anything related)
 - Data Science & Big Data
