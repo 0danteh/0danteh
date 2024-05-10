@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/dante-tech/dante-tech/assets/148709693/cc0ab690-dca8-4d38-ad2f-3bf9a4c5aecd" alt="animated" />
+</p>
+
 Really interested huh xd, aight here's the breakdown (not following any order)
 
 You will find the following categories: **Science**, **CS (dev)** and **Cybersecurity**
