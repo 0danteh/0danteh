@@ -17,6 +17,7 @@ Now, let's start:
 - Artificial Intelligence (development of algorithms and anything related)
 - Data Science & Big Data
 - Data Analysis
-- 
+- Robotics
+- Algorithms & Data Structure
 
 [**FILE WORK IN PROGRESS, NOT COMPLETE**]
