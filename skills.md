@@ -25,5 +25,10 @@ Now, let's start:
 - Cloud Computing
 - Quantum Computing
 - Operating Systems
+- Bioinformatics
+- Embedded Systems
+- Computational Physics
+- Fullstack development
+- DevOps
 
 [**FILE WORK IN PROGRESS, NOT COMPLETE**]
