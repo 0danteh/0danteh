@@ -14,5 +14,9 @@ Now, let's start:
 
 ##### Fields
 
+- Artificial Intelligence (development of algorithms and anything related)
+- Data Science & Big Data
+- Data Analysis
+- 
 
 [**FILE WORK IN PROGRESS, NOT COMPLETE**]
