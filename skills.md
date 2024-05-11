@@ -23,7 +23,7 @@ You will find the following categories I mastered: **Science**, **CS (dev)** and
 - Algorithms & Data Structure
 - Software Engineering
 - Cryptography
-- Cybersecurity
+- Cybersecurity (Red and Blue team)
 - Cloud Computing
 - Quantum Computing
 - Operating Systems
