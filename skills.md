@@ -6,7 +6,7 @@
 
 Really interested huh xd, aight here's the breakdown (not following any order)
 
-You will find the following categories: **Science**, **CS (dev)** and **Cybersecurity**
+You will find the following categories I mastered: **Science**, **CS (dev)** and **Cybersecurity**
 
 ### Science
 
