@@ -37,7 +37,7 @@ You will find the following categories I mastered: **Science**, **CS (dev)** and
 ### Cybersecurity
 
 - Pentesting
-- Blue Team (all the developing part)
+- Blue Team
 - Malware creation & analysis
 - Reverse Engineering
 - OSINT
