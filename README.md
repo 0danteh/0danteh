@@ -5,10 +5,6 @@
 
 <p align="center">
     Scientist. Red Teamer.
-</p>
-<p align="center">
-  You can't compete with me.
-</p>
 
 <p align="center">
   Still Wondering about my specific skills? Click this repo and check the other file.
