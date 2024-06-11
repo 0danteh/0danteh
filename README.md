@@ -7,6 +7,9 @@
     Scientist. Red Teamer.
 
 <p align="center">
+  One of the world's best programmer.
+
+<p align="center">
   Still Wondering about my specific skills? Click this repo and check the other file.
 </p>
 
