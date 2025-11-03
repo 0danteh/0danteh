@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-    Scientist. AI.
+    Scientist.
 
 <p align="center">
   One of the world's best programmer.
