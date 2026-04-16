@@ -4,6 +4,9 @@
 </p>
 
 <p align="center">
-    Scientist. Programmer.
+    Scientist.
 </p>
 
+<p align="center">
+    Programmer.
+</p>
