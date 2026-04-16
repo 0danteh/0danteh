@@ -4,12 +4,6 @@
 </p>
 
 <p align="center">
-    Scientist.
-
-<p align="center">
-  One of the world's best programmer.
-
-<p align="center">
-  Still Wondering about my specific skills? Click this repo and check the other file.
+    Scientist. Programmer.
 </p>
 
