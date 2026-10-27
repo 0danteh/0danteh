@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="480" height="480" alt="animated" src="https://github.com/user-attachments/assets/646ac62e-5276-4ca3-b1ca-12964001460b" />
+  <img width="480" height="480" alt="animated" src="https://github.com/user-attachments/assets/399fd999-3f6b-4ceb-97d0-07e3a2b58494" />
 </p>
 
 <!-- lmao bro why u came here haha -->
